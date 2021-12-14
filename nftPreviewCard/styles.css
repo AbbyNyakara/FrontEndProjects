@@ -1,0 +1,106 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/* Body */
+
+body{
+  background-color: hsl(217, 54%, 11%);
+  margin: 0;
+  padding: 0;
+}
+
+.card{
+  width : 300px;
+  height : 500px;
+  background-color: hsl(216, 50%, 16%);
+  margin: 50px 500px;
+  border-radius: 10px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.main-photo{
+  height: 250px;
+  width: 250px;
+  margin: 25px 25px 0 25px;
+  border-radius: 10px;
+}
+
+h3{
+  font-size: 18px;
+  font-weight:600;
+  color:  hsl(0, 0%, 100%);
+  padding: 0 25px;
+}
+
+ p{
+  font-size: 15px;
+  color: hsl(215, 51%, 70%);
+  font-weight: lighter;
+  padding: 0 25px;
+  margin-bottom: 0px;
+}
+
+p.equilibrium{
+  color: hsl(215, 51%, 70%);
+
+}
+
+.components{
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.avatar{
+  height: 30px;
+  width: 30px;
+  margin-left: 25px;
+  border: solid white 1px;
+  border-radius: 20px;
+}
+
+.component-1{
+  color: hsl(178, 100%, 50%);
+}
+
+hr{
+  width: 85%;
+  background-color: hsl(215, 51%, 70%);
+  border: none;
+  height: 0.1px;
+
+}
+
+/* Footer Region */
+.creation-of{
+  color: hsl(215, 51%, 70%);
+}
+
+.footer{
+  display:flex;
+}
+.creation{
+  padding-left: 9px;
+  font-size: 12px;
+  margin-top: 9px;
+}
+
+/* Components  */
+.ETH{
+  color: hsl(178, 100%, 50%);
+  font-weight: bolder;
+  font-size: 14px;
+  padding-bottom: 0px;
+}
+
+.ethereum{
+  padding-right: 5px;
+}
+
+.clock{
+  padding-right: 5px;
+
+}
+.days-left{
+  color:  hsl(215, 51%, 70%);
+  font-size: 14px;
+}
